@@ -8,5 +8,5 @@ console.log ("teste")
 console.log ("teste")
 console.log ("teste")
 console.log ("minha namorada é linda 2")
-
-
+console.log ("minha namorada é linda 2")
+console.log ("minha namorada é linda 2")
