@@ -7,4 +7,6 @@ console.log ("teste")
 console.log ("teste")
 console.log ("teste")
 console.log ("teste")
-console.log ("minha namorada é linda")
+console.log ("minha namorada é linda 2")
+
+
